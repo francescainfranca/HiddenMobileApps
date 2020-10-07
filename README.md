@@ -16,4 +16,7 @@
 ##### My name is Francesca Infranca, I included a photo of a trip I took to Oregon just before Covid-19.
 ![oregon](https://user-images.githubusercontent.com/54380721/95278409-bb05ff80-0815-11eb-87fc-75ac887c1050.jpg)
 
+#### My name is Binita Singh.
+![photo](/images/IMG_20191215_151444_360.jpg)
+
 
