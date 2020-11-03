@@ -21,8 +21,11 @@
 <img src="https://github.com/francescainfranca/HiddenMobileApps/blob/main/images/IMG_20191215_151444_360.jpg" width="250">
 
 ## Demo Links
-- [Kaitlynn Carlson Demo](https://app.vidgrid.com/view/3CGMp9u3CUGd)
+- [Kaitlynn Carlson Demo](https://app.vidgrid.com/view/eTkr5KACsrwT)
 
 ## References
 
 - [Kaitlynn Carlson Refernece](https://www.toolbox.com/security/vulnerability-management/blogs/how-to-find-hidden-programs-running-in-the-background-020615/#:~:text=%231%3A%20Press%20%E2%80%9CCtrl%20%2B,of%20hidden%20and%20visible%20programs.)
+
+## Steps for Demo
+#### For hidden apps on computers you just need a computer that you can log into. The process is that right click the task bar, in menu that pops up click "Task Manager", from there you can just scroll in the processes tab or click the other tabs for more and different information, and faster way to bring up the task manager is "ctrl + shift + esc" (shortcut/command). -Kaitlynn Carlson
