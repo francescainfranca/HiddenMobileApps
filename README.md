@@ -37,5 +37,5 @@
 #### For hidden apps on computers you just need a computer that you can log into. The process is that right click the task bar, in menu that pops up click "Task Manager", from there you can just scroll in the processes tab or click the other tabs for more and different information, and faster way to bring up the task manager is "ctrl + shift + esc" (shortcut/command). -Kaitlynn Carlson
 
 ### Binita Singh
-**Prerequisite** - Have your android phone plugged in to your pc during the entire process for command line and for drive image creation of OSForensics process.
-**Command required for Command Prompt**- attrib -h -r -s /s /d G:\*.* where 'G' is the letter of the drive of your device.
+- **Prerequisite** - Have your android phone plugged in to your pc during the entire process for command line and for drive image creation of OSForensics process.
+- **Command Prompt required command**- attrib -h -r -s /s /d G:\*.* where 'G' is the letter of the drive of your device.
