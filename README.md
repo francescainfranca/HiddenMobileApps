@@ -28,9 +28,9 @@
 
 - [Kaitlynn Carlson Refernece](https://www.toolbox.com/security/vulnerability-management/blogs/how-to-find-hidden-programs-running-in-the-background-020615/#:~:text=%231%3A%20Press%20%E2%80%9CCtrl%20%2B,of%20hidden%20and%20visible%20programs.)
 - Francesca's References
-    1. [Digital Trends] (https://www.digitaltrends.com/mobile/how-to-hide-apps-iphone)
-    2. [iPhone Life] (https://www.iphonelife.com/content/how-to-hide-apps-iphone-how-to-find-them-later)
-    3. [Android Authority] (androidauthority.com/how-to-hide-files-photos-apps-android-652711/)
+    1. [Digital Trends](https://www.digitaltrends.com/mobile/how-to-hide-apps-iphone)
+    2. [iPhone Life](https://www.iphonelife.com/content/how-to-hide-apps-iphone-how-to-find-them-later)
+    3. [Android Authority](androidauthority.com/how-to-hide-files-photos-apps-android-652711)
 - Binita Singh References
     1. [www.easeus.com](https://www.easeus.com/file-recovery/how-to-show-hidden-files-using-cmd-control-panel-and-software.html#:~:text=Right%2Dclick%20Windows%20icon%20and,hidden%20files)
     2. [www.osforensics.com](https://www.osforensics.com/faqs-and-tutorials/how-to-obtain-data-from-android-device.html)
