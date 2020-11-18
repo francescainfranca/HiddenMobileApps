@@ -22,7 +22,7 @@
 
 ## Demo Links
 - [Kaitlynn Carlson Demo](https://app.vidgrid.com/view/eTkr5KACsrwT)
--[Francesca Infranca](https://use.vg/pYPRlF)
+- [Francesca Infranca](https://use.vg/pYPRlF)
 - [Binita Singh Demo](https://app.vidgrid.com/view/HdRrhYb8b19n)
 
 ## References
@@ -40,6 +40,9 @@
 ## Steps for Demo
 ### Kaitlynn Carlson 
 #### For hidden apps on computers you just need a computer that you can log into. The process is that right click the task bar, in menu that pops up click "Task Manager", from there you can just scroll in the processes tab or click the other tabs for more and different information, and faster way to bring up the task manager is "ctrl + shift + esc" (shortcut/command). -Kaitlynn Carlson
+
+### Francesca Infranca
+#### Move your chosen app to the library. Then go to Settings > Siri & Search > (Your chosen app). Then deselect "Suggest App" and "Show App in Search". You can then put any files you wish to hide in the app, or if using a normal app leave as is.
 
 ### Binita Singh
 - **Prerequisite**: Have your android phone plugged in to your pc during the entire process for command line and for drive image creation of OSForensics process.
