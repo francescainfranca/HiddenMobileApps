@@ -20,10 +20,14 @@
 
 <img src="https://github.com/francescainfranca/HiddenMobileApps/blob/main/images/IMG_20191215_151444_360.jpg" width="250">
 
+#### My name is Colin Bayless, heres an old picture of me...
+![img](https://raw.githubusercontent.com/francescainfranca/HiddenMobileApps/main/images/Snapchat-1435496021.jpg)
+
 ## Demo Links
 - [Kaitlynn Carlson Demo](https://app.vidgrid.com/view/eTkr5KACsrwT)
 - [Francesca Infranca](https://use.vg/pYPRlF)
 - [Binita Singh Demo](https://app.vidgrid.com/view/HdRrhYb8b19n)
+- [Colin Bayless Demo](https://youtu.be/AFpsUIjVuy0)
 
 ## References
 
@@ -36,6 +40,8 @@
     1. [www.easeus.com](https://www.easeus.com/file-recovery/how-to-show-hidden-files-using-cmd-control-panel-and-software.html#:~:text=Right%2Dclick%20Windows%20icon%20and,hidden%20files)
     2. [www.osforensics.com](https://www.osforensics.com/faqs-and-tutorials/how-to-obtain-data-from-android-device.html)
     3. [www.youtube.com](https://www.youtube.com/watch?v=5RZkOWtZZp4)
+- Colin Bayless' References
+    1.  [App Hider](https://play.google.com/store/apps/details?id=com.app.hider.master.pro)
 
 ## Steps for Demo
 ### Kaitlynn Carlson 
@@ -47,3 +53,6 @@
 ### Binita Singh
 - **Prerequisite**: Have your android phone plugged in to your pc during the entire process for command line and for drive image creation of OSForensics process.
 - **Command Prompt required command**: attrib -h -r -s /s /d G:\*.* where 'G' is the letter of the drive of your device.
+
+#### Colin Bayless
+- **Aquiring the app is simple** - after you have aquired the app make sure to memorize your password or the hidden apps within will be lost.
